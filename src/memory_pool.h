@@ -1,3 +1,5 @@
+//Copyright (c) 2025 Alexander Goncharov. All Rights Reserved.
+
 #ifndef MEMORY_POOL_H
 #define MEMORY_POOL_H
 

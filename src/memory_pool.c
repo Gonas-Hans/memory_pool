@@ -1,3 +1,5 @@
+//Copyright (c) 2025 Alexander Goncharov. All Rights Reserved.
+
 #include "memory_pool.h"
 #include <stdlib.h>
 #include <string.h>
